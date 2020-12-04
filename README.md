@@ -1,0 +1,2 @@
+# diamond-competition
+Project VI
