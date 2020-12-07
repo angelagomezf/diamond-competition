@@ -44,7 +44,7 @@ The data has been source from a [Kaggle](https://www.kaggle.com/c/diamonds-datam
         - Model 3.1 : with **GridSearchCV**
     - Model 4: **Decision Tree Classifier**
 
-![Alt-text](images/dtc.png)
+![Getting-Started](images/dtc.png)
 
 
 4. Finally, we submit the different tested models into Kaggle to check which one has a lower RMSE and highest score among the competitors.
