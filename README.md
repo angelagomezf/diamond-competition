@@ -1,7 +1,7 @@
 # Predincting Diamond Prices
 ## Ironhack's Data Analytics Bootcamp Project nº VI: Diamond Kaggle Competition
 
-![Alt-text](images/diamond_comp.png)
+![Alt-text](images/diamond_comp.jpg)
 
 ---
 The **main goal** of this project is to predict the price of diamonds based on what we have learned in class the previous week about Supervised Machine Learning techniques.
