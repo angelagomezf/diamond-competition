@@ -1,4 +1,4 @@
-# Predincting Diamond Prices
+# Predicting Diamond Prices
 ## Ironhack's Data Analytics Bootcamp Project nº VI: Diamond Kaggle Competition
 
 ![Alt-text](images/diamond_comp.png)
@@ -71,3 +71,4 @@ Therefore, as future improvements I would:
 - Try to stick with one model and optimize it
 - Try other models, such as Lasso or Ridge
 - Make GridSearchCV work
+- Use different features and see how the model changes
