@@ -1,7 +1,7 @@
 # Predincting Diamond Prices
 ## Ironhack's Data Analytics Bootcamp Project nº VI: Diamond Kaggle Competition
 
-![Alt-text](images/diamond_comp.jpg)
+![Alt-text](images/diamond_comp.png)
 
 ---
 The **main goal** of this project is to predict the price of diamonds based on what we have learned in class the previous week about Supervised Machine Learning techniques.
@@ -44,7 +44,7 @@ The data has been source from a [Kaggle](https://www.kaggle.com/c/diamonds-datam
         - Model 3.1 : with **GridSearchCV**
     - Model 4: **Decision Tree Classifier**
 
-![Getting-Started](images/dtc.png)
+![Getting-Started](images/dtc.jpg)
 
 
 4. Finally, we submit the different tested models into Kaggle to check which one has a lower RMSE and highest score among the competitors.
